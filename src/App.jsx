@@ -21,7 +21,11 @@ function App() {
         <h3>Integrantes</h3>
         <h4>Carlos Leonardo Hernandez</h4>
         <h6>Enlace al proyecto</h6>
+<<<<<<< HEAD
         <a href="index.html">click aqui para ir al proyecto</a>
+=======
+        <a href="\public\index.html">click aqui para ir al proyecto</a>
+>>>>>>> fce9ca5fda99b465331a2af4dca15f88f730bb18
         </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
